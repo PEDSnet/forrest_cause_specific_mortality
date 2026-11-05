@@ -1,0 +1,13 @@
+*
+
+!*/
+
+!.gitignore
+
+!**/.placeholder
+
+!/cause_specific_mortality_v1.R
+
+!/data/raw/codesets/*.xlsx
+
+!/output/tables.html
