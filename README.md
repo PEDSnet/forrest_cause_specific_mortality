@@ -91,7 +91,7 @@ output/figures: Output location for figures
 
 output/tables: Output location for tables
 
-output/tables.html: HTML of interactive data tables used in manuscript
+output/tables.html: HTML of interactive data tables used in manuscript. File is large, please download raw file
 
 ## How to use
 
